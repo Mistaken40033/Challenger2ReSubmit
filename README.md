@@ -38,7 +38,7 @@ To showcase personal growth and improvement by remaking Challenge 2 with enhance
 - mdn web docs https://developer.mozilla.org/en-US/docs/Web/CSS
 - stack overflow https://developer.mozilla.org/en-US/docs/Web/CSS
 - used old repo code :https://github.com/Mistaken40033/new_adventure.git (![alt text](image.png))
-- modifying to new look : https://github.com/Mistaken40033/Challenger2ReSubmit.git(![alt text](image-1.png))
+- modifying to new look : https://github.com/Mistaken40033/Challenger2ReSubmit.git (![alt text](image-1.png))
 
 ## License
 MIT License
