@@ -40,6 +40,9 @@ To showcase personal growth and improvement by remaking Challenge 2 with enhance
 - used old repo code :https://github.com/Mistaken40033/new_adventure.git (![alt text](image.png))
 - modifying to new look : https://github.com/Mistaken40033/Challenger2ReSubmit.git  (![alt text](image-1.png))
 - Xpert Learning
+- Microsoft Sway: https://sway.cloud.microsoft/q0LvF5PEAyqW0sPS?ref=Link&loc=play (to upload my resume)
+- Added Linked-in, Instagram, and a link to my email address
+- ChatGPT to help write my intos
 
 ## License
 MIT License
